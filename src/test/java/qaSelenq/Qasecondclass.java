@@ -10,6 +10,7 @@ public class Qasecondclass {
 		String s = "vaibgav";
 		int a=10;
 		int c= 30;
+		String j="jgf";
 	}
 
 }
