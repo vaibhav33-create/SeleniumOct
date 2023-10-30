@@ -8,6 +8,9 @@ public class Qasecondclass {
 		System.out.println("welcome home");
 		System.out.println("vaibhav");
 		String s = "vaibgav";
+		int a=10;
+		int c= 30;
+		String j="jgf";
 	}
 
 }
